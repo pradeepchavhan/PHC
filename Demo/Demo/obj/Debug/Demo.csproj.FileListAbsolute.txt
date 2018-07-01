@@ -9,3 +9,9 @@ C:\PHC\Demo\Demo\obj\Debug\Demo.exe
 C:\PHC\Demo\Demo\obj\Debug\Demo.pdb
 C:\PHC\Demo\Demo\bin\Debug\Demo.exe
 C:\PHC\Demo\Demo\bin\Debug\Demo.pdb
+C:\GitClone\PHC\Demo\Demo\bin\Debug\Demo.exe.config
+C:\GitClone\PHC\Demo\Demo\obj\Debug\Demo.exe
+C:\GitClone\PHC\Demo\Demo\obj\Debug\Demo.pdb
+C:\GitClone\PHC\Demo\Demo\bin\Debug\Demo.exe
+C:\GitClone\PHC\Demo\Demo\bin\Debug\Demo.pdb
+C:\GitClone\PHC\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
