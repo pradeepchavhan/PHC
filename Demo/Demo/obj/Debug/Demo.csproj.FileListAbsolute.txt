@@ -9,4 +9,3 @@ C:\PHC\Demo\Demo\obj\Debug\Demo.exe
 C:\PHC\Demo\Demo\obj\Debug\Demo.pdb
 C:\PHC\Demo\Demo\bin\Debug\Demo.exe
 C:\PHC\Demo\Demo\bin\Debug\Demo.pdb
-C:\PHC\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
