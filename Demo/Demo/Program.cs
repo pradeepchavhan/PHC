@@ -11,6 +11,7 @@ namespace Demo
         static void Main(string[] args)
         {
             Console.WriteLine("This simple additioin program: ");
+            Console.WriteLine("This simple additioin program: ");
             Console.WriteLine("Please Enter First No: ");
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Please Enter Second No: ");
