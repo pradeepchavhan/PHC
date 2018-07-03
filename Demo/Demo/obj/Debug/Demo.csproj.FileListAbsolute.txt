@@ -15,3 +15,9 @@ C:\GitClone\PHC\Demo\Demo\obj\Debug\Demo.pdb
 C:\GitClone\PHC\Demo\Demo\bin\Debug\Demo.exe
 C:\GitClone\PHC\Demo\Demo\bin\Debug\Demo.pdb
 C:\GitClone\PHC\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\NewPHC\PHC\Demo\Demo\bin\Debug\Demo.exe.config
+C:\NewPHC\PHC\Demo\Demo\obj\Debug\Demo.exe
+C:\NewPHC\PHC\Demo\Demo\obj\Debug\Demo.pdb
+C:\NewPHC\PHC\Demo\Demo\bin\Debug\Demo.exe
+C:\NewPHC\PHC\Demo\Demo\bin\Debug\Demo.pdb
+C:\NewPHC\PHC\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
